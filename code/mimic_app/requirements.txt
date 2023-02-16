@@ -19,6 +19,6 @@ s3transfer==0.3.6
 six==1.15.0
 threadpoolctl==2.1.0
 urllib3==1.26.4
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 WTForms==2.3.3
 scikit-learn==0.24.1
